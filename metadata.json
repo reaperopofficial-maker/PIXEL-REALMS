@@ -1,0 +1,6 @@
+{
+  "name": "PIXEL REALMS: Shadow of the Forgotten King",
+  "description": "Mobile-first 2D pixel-art dark fantasy RPG game foundation built with Phaser 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
